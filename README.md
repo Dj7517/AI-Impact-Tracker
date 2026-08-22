@@ -438,3 +438,9 @@ The next question should be:
 > **“What measurable value did it create?”**
 
 The AI Impact Tracker is designed to make that answer visible, consistent, and data-driven.
+<img width="624" height="226" alt="image" src="https://github.com/user-attachments/assets/9eda3887-e693-490f-acdd-77b0e2a8fbad" />
+
+
+<img width="624" height="144" alt="image" src="https://github.com/user-attachments/assets/ed7a8286-48c1-412c-ad27-cf67c0594bc6" />
+
+
